@@ -1,0 +1,27 @@
+{
+  "name": "webpack20-3",
+  "version": "1.0.0",
+  "description": "webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack ./app.js --output app.bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MegDeri/webpack20-3.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Magda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MegDeri/webpack20-3/issues"
+  },
+  "homepage": "https://github.com/MegDeri/webpack20-3#readme",
+  "devDependencies": {
+    "webpack": "^4.31.0",
+    "webpack-cli": "^3.3.2"
+  }
+}
